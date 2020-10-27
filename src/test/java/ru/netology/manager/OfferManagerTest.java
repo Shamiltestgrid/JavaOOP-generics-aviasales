@@ -97,3 +97,11 @@ class OfferManagerTest {
         assertArrayEquals(expected, actual);
     }
 }
+@Test
+    void shouldAddOffer() {
+        manager.add(offerToAdd);
+        Offer[] expected = null
+              
+        };
+}
+
